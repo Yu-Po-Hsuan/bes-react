@@ -1,0 +1,44 @@
+.leaflet-container {
+    width: 100%;
+    height: 100vh;
+  }
+
+  #receiveButton {
+    position: absolute;
+    top: 20px;
+    right: 180px;
+    /* padding: 10px; */
+    z-index: 400;
+
+    background-color: transparent;
+    color: black;
+    border: none;
+    padding: 8px 16px;
+    font-size: 30px;
+    opacity: 0.6;
+  }
+
+  #receiveButton:hover {
+    opacity: 1;
+  }
+
+  #sendButton {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    /* padding: 10px; */
+    z-index: 400;
+
+    background-color: transparent;
+    color: black;
+    border: none;
+    padding: 8px 16px;
+    font-size: 30px;
+    opacity: 0.6;
+  }
+
+  #sendButton:hover {
+    opacity: 1;
+  }
+
+  
