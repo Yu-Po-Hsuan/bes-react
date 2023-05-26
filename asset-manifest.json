@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bes-react/static/css/main.e9bfa75e.css",
+    "main.js": "/bes-react/static/js/main.85c13aa4.js",
+    "static/js/787.40c1f969.chunk.js": "/bes-react/static/js/787.40c1f969.chunk.js",
+    "static/media/kbo-bike-msIweXufPUs-unsplash.jpg": "/bes-react/static/media/kbo-bike-msIweXufPUs-unsplash.6f460c7f2b845be5f370.jpg",
+    "index.html": "/bes-react/index.html",
+    "main.e9bfa75e.css.map": "/bes-react/static/css/main.e9bfa75e.css.map",
+    "main.85c13aa4.js.map": "/bes-react/static/js/main.85c13aa4.js.map",
+    "787.40c1f969.chunk.js.map": "/bes-react/static/js/787.40c1f969.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9bfa75e.css",
+    "static/js/main.85c13aa4.js"
+  ]
+}
