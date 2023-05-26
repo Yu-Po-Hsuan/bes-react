@@ -6,7 +6,6 @@ import Register from './pages/Register';
 import NotFound from './pages/NotFound';
 import ReceiveRequest from './pages/ReceiveRequest';
 import SendRequest from './pages/SendRequest';
-import Payment from './pages/Payment';
 import { UserContext } from './user';
 
 function App() {
@@ -22,7 +21,6 @@ function App() {
           <Route path='/register' element={<Register/>}></Route>
           <Route path='/receive-request' element={<ReceiveRequest/>}></Route>
           <Route path='/send-request' element={<SendRequest/>}></Route>
-          <Route path='/payment' element={<Payment/>}></Route>
           <Route path='*' element={<NotFound/>}></Route>
         </Routes>
       </UserContext.Provider>
