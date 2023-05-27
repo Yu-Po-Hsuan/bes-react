@@ -75,6 +75,9 @@ function Map() {
         <Link to='/send-request'>
           <button id="sendButton">查看請求</button>
         </Link>
+        <Link to='/login'>
+          <button id="logoutButton">登出</button>
+        </Link>
 
         {
           locations.map(location => (<Marker key={location.vehicleId} position={[location.latitude, location.longitude]}>

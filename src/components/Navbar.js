@@ -16,7 +16,10 @@ function Navbar() {
                         <li className="nav-item">
                             <NavLink className="nav-link" to='/map'>地圖</NavLink>
                         </li>
-                    </ul>
+                    </ul>                 
+                        <NavLink className="nav-link" to='/login'>
+                            <button class="btn btn-outline-success">登出</button>
+                        </NavLink>                            
                 </div>
             </div>
         </nav>
