@@ -18,7 +18,7 @@ function Navbar() {
                         </li>
                     </ul>                 
                         <NavLink className="nav-link" to='/login'>
-                            <button class="btn btn-outline-success">登出</button>
+                            <button className="btn btn-outline-success">登出</button>
                         </NavLink>                            
                 </div>
             </div>
